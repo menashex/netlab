@@ -10,6 +10,7 @@ r2:
 
 links:
 - r1:
+    ospf.area: 0.0.0.0
   r2:
     ospf.area: 0.0.0.0
 
